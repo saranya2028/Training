@@ -1,5 +1,5 @@
-```markdown
-# Java Training - Company Specific Problems
+
+# Company Specific Training-Java Problems
 
 ## Overview
 This repository contains solutions to various Java problems that I solved during my 10-day company-specific training program. The problems cover different aspects of Java programming, including data structures, algorithms, object-oriented programming, and real-world applications.
@@ -42,25 +42,5 @@ Each problem is categorized based on its difficulty and topic:
    - JDBC (Java Database Connectivity)
    - Collections framework (ArrayList, HashMap, etc.)
 
-## How to Run the Code
-1. Clone this repository:
-   ```sh
-   git clone https://github.com/your-username/java-training-solutions.git
-   ```
-2. Navigate to the project folder:
-   ```sh
-   cd java-training-solutions
-   ```
-3. Compile and run Java files:
-   ```sh
-   javac Filename.java
-   java Filename
-   ```
 
-## Contributions
-Feel free to contribute by adding more solutions or optimizing the existing ones. Fork this repository, make changes, and create a pull request!
-
-## Contact
-For any queries, reach out via [GitHub Issues](https://github.com/your-username/java-training-solutions/issues).
-```
 
